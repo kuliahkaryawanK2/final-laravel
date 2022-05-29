@@ -2,6 +2,11 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Backend\DashboardController;
+use App\Http\Controllers\Frontend\HomeController;
+use App\Http\Controllers\Frontend\KontakController;
+use App\Http\Controllers\Frontend\LayananController;
+use App\Http\Controllers\Frontend\PortofolioController;
+use App\Http\Controllers\Frontend\TentangController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,15 +19,26 @@ use App\Http\Controllers\Backend\DashboardController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+// Route::get('/', function () {
+//     return view('home');
+// });
+
+// Auth::routes();
+
+
+Route::namespace('Home')->group(function() {
+
+    Route::get('/home', [HomeController::class, 'index']);
+    Route::get('tentang', [TentangController::class, 'index']);
+    Route::get('layanan', [LayananController::class, 'index']);
+    Route::get('portofolio', [PortofolioController::class, 'index']);
+    Route::get('kontak', [KontakController::class, 'index']);
+
 });
 
-Auth::routes();
+
+// Route::namespace('Dashboard')->group(function(){
+//     Route::get('/admin/dashboard', [DashboardController::class, 'index'])->name('dashboard');
 
 
-Route::namespace('Dashboard')->group(function(){
-    Route::get('/admin/dashboard', [DashboardController::class, 'index'])->name('dashboard');
-
-
-});
+// });
