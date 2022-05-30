@@ -1,7 +1,7 @@
 @extends('Frontend.layouts.app')
 
 @section('content')
- 
+
 <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
     <div class="container">
       <div class="row">
@@ -9,9 +9,18 @@
           <div class="row">
             <div class="col-lg-6 align-self-center">
               <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
-                <h6>Welcome to Space Dynamic</h6>
-                <h2>We Make <em>Digital Ideas</em> &amp; <span>SEO</span> Marketing</h2>
-                <p>Space Dynamic is a professional looking HTML template using a Bootstrap 5 (beta 2). This CSS template is free for you provided by <a rel="nofollow" href="https://templatemo.com/page/1" target="_parent">TemplateMo</a>.</p>
+              <h5>
+                <div class="waviy">
+                  <span style="--i:1">W</span>
+                  <span style="--i:2">E</span>
+                  <span style="--i:3">L</span>
+                  <span style="--i:4">C</span>
+                  <span style="--i:5">O</span>
+                  <span style="--i:6">M</span>
+                  <span style="--i:7">E</span>
+                </div></h5>
+                <h2>Solusi dari <span>Semua Masalah </span><em>Marketing</em> Anda</h2>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur consectetur adipisci voluptatem tempora, perspiciatis minima fugiat nesciunt illo eum sed id pariatur recusandae ipsa obcaecati quisquam itaque magnam rerum. Modi! <a rel="nofollow" href="https://templatemo.com/page/1" target="_parent">TemplateMo</a>.</p>
                 <form id="search" action="#" method="GET">
                   <fieldset>
                     <input type="address" name="address" class="email" placeholder="Your website URL..." autocomplete="on" required>
@@ -100,7 +109,7 @@
       <div class="row">
         <div class="col-lg-6 align-self-center  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
           <div class="left-image">
-            <img src="images/services-left-image.png" alt="">
+            <img src="/images/services-left-image.png" alt="">
           </div>
         </div>
         <div class="col-lg-6 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
@@ -205,6 +214,21 @@
     </div>
   </div>
 
+  <section class="partners">
+  <div class="our-partners section">
+      <div class="row">
+        <div class="col-lg-6 offset-lg-3">
+          <div class="section-heading  wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <h2>Our<span>Partners</span></h2>
+          </div>
+        </div>
+      </div>
+    <div class="partners-img-container">
+      <div class="partners-img"></div>
+    </div>
+  </div>
+  </section>
+
   <div id="blog" class="our-blog section">
     <div class="container">
       <div class="row">
@@ -278,6 +302,94 @@
       </div>
     </div>
   </div>
+
+  <section class="faq-section">
+  <div class="container">
+    <div class="row">
+            <!-- ***** FAQ Start ***** -->
+            <div class="col-md-6 offset-md-3">
+
+                <div class="faq-title text-center pb-3">
+                    <h2>FAQ</h2>
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-3">
+                <div class="faq" id="accordion">
+                    <div class="card">
+                        <div class="card-header" id="faqHeading-1">
+                            <div class="mb-0">
+                                <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-1" data-aria-expanded="true" data-aria-controls="faqCollapse-1">
+                                    <span class="badge">1</span>What is Lorem Ipsum?
+                                </h5>
+                            </div>
+                        </div>
+                        <div id="faqCollapse-1" class="collapse" aria-labelledby="faqHeading-1" data-parent="#accordion">
+                            <div class="card-body">
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="faqHeading-2">
+                            <div class="mb-0">
+                                <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-2" data-aria-expanded="false" data-aria-controls="faqCollapse-2">
+                                    <span class="badge">2</span> Where does it come from?
+                                </h5>
+                            </div>
+                        </div>
+                        <div id="faqCollapse-2" class="collapse" aria-labelledby="faqHeading-2" data-parent="#accordion">
+                            <div class="card-body">
+                                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="faqHeading-3">
+                            <div class="mb-0">
+                                <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-3" data-aria-expanded="false" data-aria-controls="faqCollapse-3">
+                                    <span class="badge">3</span>Why do we use it?
+                                </h5>
+                            </div>
+                        </div>
+                        <div id="faqCollapse-3" class="collapse" aria-labelledby="faqHeading-3" data-parent="#accordion">
+                            <div class="card-body">
+                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="faqHeading-4">
+                            <div class="mb-0">
+                                <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-4" data-aria-expanded="false" data-aria-controls="faqCollapse-4">
+                                    <span class="badge">4</span> Where can I get some?
+                                </h5>
+                            </div>
+                        </div>
+                        <div id="faqCollapse-4" class="collapse" aria-labelledby="faqHeading-4" data-parent="#accordion">
+                            <div class="card-body">
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="faqHeading-5">
+                            <div class="mb-0">
+                                <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-5" data-aria-expanded="false" data-aria-controls="faqCollapse-5">
+                                    <span class="badge">5</span> What is Lorem Ipsum?
+                                </h5>
+                            </div>
+                        </div>
+                        <div id="faqCollapse-5" class="collapse" aria-labelledby="faqHeading-5" data-parent="#accordion">
+                            <div class="card-body">
+                                <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+        </div>
+  </section>
 
   <div id="contact" class="contact-us section">
     <div class="container">

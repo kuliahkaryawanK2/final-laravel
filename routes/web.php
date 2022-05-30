@@ -7,6 +7,7 @@ use App\Http\Controllers\Frontend\KontakController;
 use App\Http\Controllers\Frontend\LayananController;
 use App\Http\Controllers\Frontend\PortofolioController;
 use App\Http\Controllers\Frontend\TentangController;
+use App\Http\Controllers\Frontend\BlogController;
 
 /*
 |--------------------------------------------------------------------------
@@ -28,11 +29,12 @@ use App\Http\Controllers\Frontend\TentangController;
 
 Route::namespace('Home')->group(function() {
 
-    Route::get('/home', [HomeController::class, 'index']);
-    Route::get('tentang', [TentangController::class, 'index']);
-    Route::get('layanan', [LayananController::class, 'index']);
-    Route::get('portofolio', [PortofolioController::class, 'index']);
-    Route::get('kontak', [KontakController::class, 'index']);
+    Route::get('/', [HomeController::class, 'index']);
+    Route::get('/tentang', [TentangController::class, 'index']);
+    Route::get('/layanan', [LayananController::class, 'index']);
+    Route::get('/portofolio', [PortofolioController::class, 'index']);
+    Route::get('/blog', [BlogController::class, 'index']);
+    Route::get('/kontak', [KontakController::class, 'index']);
 
 });
 

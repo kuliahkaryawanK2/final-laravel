@@ -11,4 +11,11 @@
     <link rel="stylesheet" href="/css1/templatemo-space-dynamic.css">
     <link rel="stylesheet" href="/css1/animated.css">
     <link rel="stylesheet" href="/css1/owl.css">
+    <link rel="stylesheet" href="/css/animate.css">
+    <link rel="stylesheet" href="/css/timeline.css">
+    <link rel="stylesheet" href="/css/service.css">
+    <link rel="stylesheet" href="/css/faq.css">
+    <link rel="stylesheet" href="/css/portofolio.css">
+    <link rel="stylesheet" href="/css/partner.css">
+    
 <!--

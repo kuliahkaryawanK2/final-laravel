@@ -5,19 +5,19 @@
         <div class="col-12">
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
-            <a href="index.html" class="logo">
-              <h4>Spac<span>Dyna</span></h4>
+            <a href="{{ url('/') }}" class="logo">
+              <h4>Edu<span>nesia</span></h4>
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-              <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-              <li class="scroll-to-section"><a href="#about">About Us</a></li>
-              <li class="scroll-to-section"><a href="#services">Services</a></li>
-              <li class="scroll-to-section"><a href="#portfolio">Portfolio</a></li>
-              <li class="scroll-to-section"><a href="#blog">Blog</a></li> 
-              <li class="scroll-to-section"><a href="#contact">Message Us</a></li> 
-              <li class="scroll-to-section"><div class="main-red-button"><a href="#contact">Contact Now</a></div></li> 
+              <li class="scroll-to-section"><a href="{{ url('/') }}" class="active {{ (request()->is('/*')) ?'active' : '' }}">Home</a></li>
+              <li class="scroll-to-section"><a href="{{ url('tentang') }}"  >About Us</a></li>
+              <li class="scroll-to-section"><a href="{{ url('layanan') }}">Services</a></li>
+              <li class="scroll-to-section"><a href="{{ url('portofolio') }}">Portfolio</a></li>
+              <li class="scroll-to-section"><a href="{{ url('blog') }}">Blog</a></li> 
+              <li class="scroll-to-section"><a href="{{ url('kontak') }}">Message Us</a></li> 
+              <li class="scroll-to-section"><div class="main-red-button"><a href="{{ url('kontak') }}">Contact Now</a></div></li> 
             </ul>        
             <a class='menu-trigger'>
                 <span>Menu</span>
@@ -28,4 +28,5 @@
       </div>
     </div>
   </header>
+  
   <!-- ***** Header Area End ***** -->
