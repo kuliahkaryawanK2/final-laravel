@@ -17,5 +17,11 @@
     <link rel="stylesheet" href="/css/faq.css">
     <link rel="stylesheet" href="/css/portofolio.css">
     <link rel="stylesheet" href="/css/partner.css">
+    <link rel="stylesheet" href="/css/about.css">
     
-<!--
+    <!-- Details CSS Files -->
+    <!-- <link rel="stylesheet" href="/css-details/bootstrap.css"> -->
+    <!-- <link rel="stylesheet" href="/css1/font-awesome.css"> -->
+    <link rel="stylesheet" href="/css-details/templatemo_style.css">
+    <!-- <link rel="stylesheet" href="/css-details/templatemo_misc.css"> -->
+    <link rel="stylesheet" href="/css-details/flexslider.css">

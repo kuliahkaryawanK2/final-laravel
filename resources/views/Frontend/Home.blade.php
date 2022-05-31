@@ -21,14 +21,17 @@
                 </div></h5>
                 <h2>Solusi dari <span>Semua Masalah </span><em>Marketing</em> Anda</h2>
                 <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur consectetur adipisci voluptatem tempora, perspiciatis minima fugiat nesciunt illo eum sed id pariatur recusandae ipsa obcaecati quisquam itaque magnam rerum. Modi! <a rel="nofollow" href="https://templatemo.com/page/1" target="_parent">TemplateMo</a>.</p>
-                <form id="search" action="#" method="GET">
+                <!-- <form id="search" action="#" method="GET">
                   <fieldset>
                     <input type="address" name="address" class="email" placeholder="Your website URL..." autocomplete="on" required>
                   </fieldset>
                   <fieldset>
                     <button type="submit" class="main-button">Analyze Site</button>
                   </fieldset>
-                </form>
+                </form> -->
+                <div class="main-red-button">
+                  <a href="">Discover More</a>
+                </div>
               </div>
             </div>
             <div class="col-lg-6">
@@ -97,6 +100,9 @@
                   </div>
                 </div>
               </div>
+              <div class="main-blue-button">
+                  <a href="{{ url('tentang') }}">Read More</a>
+                </div>
             </div>
           </div>
         </div>
@@ -254,7 +260,7 @@
                   <li><i class="fa fa-users"></i> TemplateMo</li>
                   <li><i class="fa fa-folder"></i> Branding</li>
                 </ul>
-                <a href="#"><h4>SEO Agency &amp; Digital Marketing</h4></a>
+                <a href="{{ url('/blog/details') }}"><h4>SEO Agency &amp; Digital Marketing</h4></a>
                 <p>Lorem ipsum dolor sit amet, consectetur and sed doer ket eismod tempor incididunt ut labore et dolore magna...</p>
                 <div class="main-blue-button">
                   <a href="#">Discover More</a>
@@ -269,7 +275,7 @@
               <li>
                 <div class="left-content align-self-center">
                   <span><i class="fa fa-calendar"></i> 18 Mar 2021</span>
-                  <a href="#"><h4>New Websites &amp; Backlinks</h4></a>
+                  <a href="{{ url('/blog/details') }}"><h4>New Websites &amp; Backlinks</h4></a>
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
@@ -279,7 +285,7 @@
               <li>
                 <div class="left-content align-self-center">
                   <span><i class="fa fa-calendar"></i> 14 Mar 2021</span>
-                  <a href="#"><h4>SEO Analysis &amp; Content Ideas</h4></a>
+                  <a href="{{ url('/blog/details') }}}"><h4>SEO Analysis &amp; Content Ideas</h4></a>
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
@@ -289,7 +295,7 @@
               <li>
                 <div class="left-content align-self-center">
                   <span><i class="fa fa-calendar"></i> 06 Mar 2021</span>
-                  <a href="#"><h4>SEO Tips &amp; Digital Marketing</h4></a>
+                  <a href="{{ url('/blog/details') }}"><h4>SEO Tips &amp; Digital Marketing</h4></a>
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">

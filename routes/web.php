@@ -8,6 +8,7 @@ use App\Http\Controllers\Frontend\LayananController;
 use App\Http\Controllers\Frontend\PortofolioController;
 use App\Http\Controllers\Frontend\TentangController;
 use App\Http\Controllers\Frontend\BlogController;
+use App\Http\Controllers\Frontend\DetailsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -34,6 +35,7 @@ Route::namespace('Home')->group(function() {
     Route::get('/layanan', [LayananController::class, 'index']);
     Route::get('/portofolio', [PortofolioController::class, 'index']);
     Route::get('/blog', [BlogController::class, 'index']);
+    Route::get('/blog/details', [DetailsController::class, 'index']);
     Route::get('/kontak', [KontakController::class, 'index']);
 
 });
