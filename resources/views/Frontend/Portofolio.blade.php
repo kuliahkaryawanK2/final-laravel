@@ -15,7 +15,7 @@
             </div>
             <!-- <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="images/banner-right-image.png" alt="team meeting">
+                <img src="/Frontend/images/banner-right-image.png" alt="team meeting">
               </div>
             </div> -->
           </div>
@@ -42,7 +42,7 @@
                 <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="images/portfolio-image.png" alt="">
+                <img src="/Frontend/images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -55,7 +55,7 @@
                 <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="images/portfolio-image.png" alt="">
+                <img src="/Frontend/images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -68,7 +68,7 @@
                 <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="images/portfolio-image.png" alt="">
+                <img src="/Frontend/images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -81,7 +81,7 @@
                 <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="images/portfolio-image.png" alt="">
+                <img src="/Frontend/images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -92,7 +92,7 @@
 
   <div id="portfolio" class="our-portfolio section">
     <div class="portfolio-left-dec">
-      <img src="/images1/portfolio-left-dec.png" alt="">
+      <img src="/Frontend/images1/portfolio-left-dec.png" alt="">
     </div>
     <div class="container">
       <div class="row">
@@ -110,7 +110,7 @@
           <div class="owl-carousel owl-portfolio">
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-01.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-01.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a rel="sponsored" href="https://templatemo.com/tm-564-plot-listing" target="_parent"><h4>First Project</h4></a>
@@ -121,7 +121,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-02.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-02.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a href="#"><h4>Project Two</h4></a>
@@ -132,7 +132,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-03.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-03.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a rel="sponsored" href="https://templatemo.com/tm-562-space-dynamic" target="_parent"><h4>Third Project</h4></a>
@@ -143,7 +143,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-04.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-04.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a href="#"><h4>Project Four</h4></a>
@@ -154,7 +154,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-01.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-01.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a href="#"><h4>Fifth Project</h4></a>
@@ -165,7 +165,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-02.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-02.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a href="#"><h4>Sixth Project</h4></a>
@@ -176,7 +176,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-03.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-03.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a href="#"><h4>7th Project</h4></a>
@@ -187,7 +187,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-04.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-04.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a href="#"><h4>8th Project</h4></a>
@@ -198,7 +198,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-01.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-01.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a href="#"><h4>9th Project</h4></a>
@@ -209,7 +209,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-02.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-02.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a href="#"><h4>Project Ten</h4></a>
@@ -220,7 +220,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-03.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-03.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a href="#"><h4>Project Eleven</h4></a>
@@ -231,7 +231,7 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="/images1/portfolio-04.jpg" alt="">
+                <img src="/Frontend/images1/portfolio-04.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
                     <a href="#"><h4>12th Project</h4></a>

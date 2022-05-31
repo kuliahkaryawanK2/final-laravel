@@ -12,7 +12,7 @@
                             <div class="col-md-8">  
                                     <div class="image">
                                         <div class="image-post">
-                                            <img src="/images-details/single-post.jpg" alt="">
+                                            <img src="/Frontend/images-details/single-post.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="product-content">
@@ -24,7 +24,7 @@
                                         Mauris suscipit metus ullamcorper enim fringilla sagittis. Duis dui leo, mattis ac rhoncus eget, interdum a ipsum. Duis rutrum, justo et egestas feugiat, dui velit egestas velit, feugiat efficitur ante mauris eu ipsum. Aliquam quis sem vitae mi fringilla ornare eu quis orci. Fusce tellus sem, gravida a nunc eget, vehicula <a href="#">commodo</a> sapien.</p>
                                     </div>
                                     <div class="divide-line">
-                                    <img src="/images-details/div-line.png" alt="" />
+                                    <img src="/Frontend/images-details/div-line.png" alt="" />
                                     </div>
                                     <div class="comments-title">
                                         <div class="comment-section">
@@ -35,7 +35,7 @@
                                         <div class="view-comments">
                                             <div class="comments">
                                                 <div class="author-thumb">
-                                                    <img src="/images-details/author-comment1.jpg" style=" border-radius: 50%;" alt="">
+                                                    <img src="/Frontend/images-details/author-comment1.jpg" style=" border-radius: 50%;" alt="">
                                                 </div>
                                                 <div class="comment-body">
                                                     <h6>Cindy Venna</h6>
@@ -48,7 +48,7 @@
                                         <div class="view-comments">
                                             <div class="comments">
                                                 <div class="author-thumb">
-                                                    <img src="/images-details/author-comment3.jpg" style=" border-radius: 50%;" alt="">
+                                                    <img src="/Frontend/images-details/author-comment3.jpg" style=" border-radius: 50%;" alt="">
                                                 </div>
                                                 <div class="comment-body">
                                                     <h6>Brooker Aung</h6>
@@ -60,7 +60,7 @@
                                         </div>
                                     </div>
                                     <div class="divide-line">
-                                    <img src="/images-details/div-line.png" alt="" />
+                                    <img src="/Frontend/images-details/div-line.png" alt="" />
                                     </div>
                                 <div class="leave-comment">
                                     <div class="leave-one">
@@ -111,7 +111,7 @@
                                         <div class="posts">
                                             <div class="recent-post">
                                                 <div class="recent-post-thumb">
-                                                    <img src="/images-details/recent-post1.jpg" alt="">
+                                                    <img src="/Frontend/images-details/recent-post1.jpg" alt="">
                                                 </div>
                                                 <div class="recent-post-info">
                                                     <h6><a href="#">Vestibulum molestie odio sit amet</a></h6>
@@ -120,7 +120,7 @@
                                             </div>
                                             <div class="recent-post">
                                                 <div class="recent-post-thumb">
-                                                    <img src="/images-details/recent-post2.jpg" alt="">
+                                                    <img src="/Frontend/images-details/recent-post2.jpg" alt="">
                                                 </div>
                                                 <div class="recent-post-info">
                                                     <h6><a href="#">Vivamus mattis quam eget urna tincidunt</a></h6>
@@ -129,7 +129,7 @@
                                             </div> 
                                             <div class="recent-post">
                                                 <div class="recent-post-thumb">
-                                                    <img src="/images-details/recent-post3.jpg" alt="">
+                                                    <img src="/Frontend/images-details/recent-post3.jpg" alt="">
                                                 </div>
                                                 <div class="recent-post-info">
                                                     <h6><a href="#">Curabitur in nunc eget neque posuere</a></h6>

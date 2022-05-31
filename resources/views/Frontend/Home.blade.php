@@ -20,7 +20,7 @@
                   <span style="--i:7">E</span>
                 </div></h5>
                 <h2>Solusi dari <span>Semua Masalah </span><em>Marketing</em> Anda</h2>
-                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur consectetur adipisci voluptatem tempora, perspiciatis minima fugiat nesciunt illo eum sed id pariatur recusandae ipsa obcaecati quisquam itaque magnam rerum. Modi! <a rel="nofollow" href="https://templatemo.com/page/1" target="_parent">TemplateMo</a>.</p>
+                <p> Konsultasikan masalah Anda di <a rel="nofollow" href="{{ url('/')}}" target="_parent">Jasa Marketing</a>, Kami memberikan solusi yang terbaik untuk Anda.</p>
                 <!-- <form id="search" action="#" method="GET">
                   <fieldset>
                     <input type="address" name="address" class="email" placeholder="Your website URL..." autocomplete="on" required>
@@ -30,13 +30,13 @@
                   </fieldset>
                 </form> -->
                 <div class="main-red-button">
-                  <a href="">Discover More</a>
+                  <a href="{{ url('/') }}">Discover More</a>
                 </div>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="images/banner-right-image.png" alt="team meeting">
+                <img src="/Frontend/images/banner-right-image.png" alt="team meeting">
               </div>
             </div>
           </div>
@@ -50,7 +50,7 @@
       <div class="row">
         <div class="col-lg-4">
           <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <img src="images/about-left-image.png" alt="person graphic">
+            <img src="/Frontend/images/about-left-image.png" alt="person graphic">
           </div>
         </div>
         <div class="col-lg-8 align-self-center">
@@ -59,44 +59,44 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
                   <div class="icon">
-                    <img src="images/service-icon-01.png" alt="reporting">
+                    <img src="/Frontend/images/service-icon-01.png" alt="reporting">
                   </div>
                   <div class="right-text">
-                    <h4>Data Analysis</h4>
-                    <p>Lorem ipsum dolor sit amet, ctetur aoi adipiscing eliter</p>
+                    <h4>Web Design</h4>
+                    <p>Design Website dengan template yang telah kami sediakan.</p>
                   </div>
                 </div>
               </div>
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
                   <div class="icon">
-                    <img src="images/service-icon-02.png" alt="">
+                    <img src="/Frontend/images/service-icon-02.png" alt="">
                   </div>
                   <div class="right-text">
-                    <h4>Data Reporting</h4>
-                    <p>Lorem ipsum dolor sit amet, ctetur aoi adipiscing eliter</p>
+                    <h4>Digital Marketing</h4>
+                    <p>Melakukan pemasaran product ke seluruh Sosial Media.</p>
                   </div>
                 </div>
               </div>
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.9s">
                   <div class="icon">
-                    <img src="images/service-icon-03.png" alt="">
+                    <img src="/Frontend/images/service-icon-03.png" alt="">
                   </div>
                   <div class="right-text">
-                    <h4>Web Analytics</h4>
-                    <p>Lorem ipsum dolor sit amet, ctetur aoi adipiscing eliter</p>
+                    <h4>Design Social Media</h4>
+                    <p>Membuat design sosial media yang Menarik dan Eksklusif</p>
                   </div>
                 </div>
               </div>
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="1.1s">
                   <div class="icon">
-                    <img src="images/service-icon-04.png" alt="">
+                    <img src="/Frontend/images/service-icon-04.png" alt="">
                   </div>
                   <div class="right-text">
-                    <h4>SEO Suggestions</h4>
-                    <p>Lorem ipsum dolor sit amet, ctetur aoi adipiscing eliter</p>
+                    <h4>Branding</h4>
+                    <p>Membuat product bisnis Anda menjadi lebih Profesional</p>
                   </div>
                 </div>
               </div>
@@ -115,18 +115,18 @@
       <div class="row">
         <div class="col-lg-6 align-self-center  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
           <div class="left-image">
-            <img src="/images/services-left-image.png" alt="">
+            <img src="/Frontend/images/services-left-image.png" alt="">
           </div>
         </div>
         <div class="col-lg-6 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
           <div class="section-heading">
-            <h2>Grow your website with our <em>SEO</em> service &amp; <span>Project</span> Ideas</h2>
-            <p>Space Dynamic HTML5 template is free to use for your website projects. However, you are not permitted to redistribute the template ZIP file on any CSS template collection websites. Please contact us for more information. Thank you for your kind cooperation.</p>
+            <h2>Grow your <em>Website</em> service &amp; <span>Design</span> Social Media</h2>
+            <p>Jasa Marketing merupakan tempat Konsultasi Bisnis Anda, dimana kami dapat melakukan Branding, Pembuatan Website, Design Sosial Media, dan Digital Marketing. Kami akan memberikan solusi terbaik untuk bisnis anda agar menjadi lebih Profesional</p>
           </div>
           <div class="row">
             <div class="col-lg-12">
               <div class="first-bar progress-skill-bar">
-                <h4>Website Analysis</h4>
+                <h4>Website Design</h4>
                 <span>84%</span>
                 <div class="filled-bar"></div>
                 <div class="full-bar"></div>
@@ -134,7 +134,7 @@
             </div>
             <div class="col-lg-12">
               <div class="second-bar progress-skill-bar">
-                <h4>SEO Reports</h4>
+                <h4>Branding</h4>
                 <span>88%</span>
                 <div class="filled-bar"></div>
                 <div class="full-bar"></div>
@@ -142,7 +142,7 @@
             </div>
             <div class="col-lg-12">
               <div class="third-bar progress-skill-bar">
-                <h4>Page Optimizations</h4>
+                <h4>Digital Marketing</h4>
                 <span>94%</span>
                 <div class="filled-bar"></div>
                 <div class="full-bar"></div>
@@ -168,11 +168,11 @@
           <a href="#">
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
               <div class="hidden-content">
-                <h4>SEO Analysis</h4>
+                <h4>Digital Marketing</h4>
                 <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="images/portfolio-image.png" alt="">
+                <img src="/Frontend/images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -181,11 +181,11 @@
           <a href="#">
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
               <div class="hidden-content">
-                <h4>Website Reporting</h4>
+                <h4>Website Design</h4>
                 <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="images/portfolio-image.png" alt="">
+                <img src="/Frontend/images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -194,11 +194,11 @@
           <a href="#">
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
               <div class="hidden-content">
-                <h4>Performance Tests</h4>
+                <h4>Design Social Media</h4>
                 <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="images/portfolio-image.png" alt="">
+                <img src="/Frontend/images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -207,11 +207,11 @@
           <a href="#">
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.6s">
               <div class="hidden-content">
-                <h4>Data Analysis</h4>
+                <h4>Branding</h4>
                 <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="images/portfolio-image.png" alt="">
+                <img src="/Frontend/images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -225,7 +225,7 @@
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
           <div class="section-heading  wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <h2>Our<span>Partners</span></h2>
+            <h2>Our<span> Partners</span></h2>
           </div>
         </div>
       </div>
@@ -245,14 +245,14 @@
         </div>
         <div class="col-lg-6 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.25s">
           <div class="top-dec">
-            <img src="images/blog-dec.png" alt="">
+            <img src="/Frontend/images/blog-dec.png" alt="">
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.25s">
           <div class="left-image">
-            <a href="#"><img src="images/big-blog-thumb.jpg" alt="Workspace Desktop"></a>
+            <a href="#"><img src="/Frontend/images/big-blog-thumb.jpg" alt="Workspace Desktop"></a>
             <div class="info">
               <div class="inner-content">
                 <ul>
@@ -279,7 +279,7 @@
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="/Frontend/images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
               <li>
@@ -289,7 +289,7 @@
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="/Frontend/images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
               <li>
@@ -299,7 +299,7 @@
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="/Frontend/images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
             </ul>
@@ -439,7 +439,7 @@
               </div>
             </div>
             <div class="contact-dec">
-              <img src="images/contact-decoration.png" alt="">
+              <img src="/Frontend/images/contact-decoration.png" alt="">
             </div>
           </form>
         </div>

@@ -15,7 +15,7 @@
             </div>
             <!-- <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="images/banner-right-image.png" alt="team meeting">
+                <img src="/Frontend/images/banner-right-image.png" alt="team meeting">
               </div>
             </div> -->
           </div>
@@ -66,7 +66,7 @@
               </div>
             </div>
             <div class="contact-dec">
-              <img src="images/contact-decoration.png" alt="">
+              <img src="/Frontend/images/contact-decoration.png" alt="">
             </div>
           </form>
         </div>

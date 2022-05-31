@@ -16,7 +16,7 @@
             </div>
             <!-- <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="images/banner-right-image.png" alt="team meeting">
+                <img src="/Frontend/images/banner-right-image.png" alt="team meeting">
               </div>
             </div> -->
           </div>
@@ -36,14 +36,14 @@
         </div>
         <div class="col-lg-6 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.25s">
           <div class="top-dec">
-            <img src="images/blog-dec.png" alt="">
+            <img src="/Frontend/images/blog-dec.png" alt="">
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.25s">
           <div class="left-image">
-            <a href="#"><img src="images/big-blog-thumb.jpg" alt="Workspace Desktop"></a>
+            <a href="#"><img src="/Frontend/images/big-blog-thumb.jpg" alt="Workspace Desktop"></a>
             <div class="info">
               <div class="inner-content">
                 <ul>
@@ -70,7 +70,7 @@
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="/Frontend/images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
               <li>
@@ -80,7 +80,7 @@
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="/Frontend/images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
               <li>
@@ -90,7 +90,7 @@
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="/Frontend/images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
             </ul>
@@ -142,7 +142,7 @@
               </div>
             </div>
             <div class="contact-dec">
-              <img src="images/contact-decoration.png" alt="">
+              <img src="/Frontend/images/contact-decoration.png" alt="">
             </div>
           </form>
         </div>

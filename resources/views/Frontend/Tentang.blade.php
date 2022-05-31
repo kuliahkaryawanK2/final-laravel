@@ -16,7 +16,7 @@
             </div>
             <!-- <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="images/banner-right-image.png" alt="team meeting">
+                <img src="/Frontend/images/banner-right-image.png" alt="team meeting">
               </div>
             </div> -->
           </div>
@@ -40,21 +40,21 @@
 
             <div class="col-lg-9 row">
                 <div class="team-member col-md-4">
-                    <img class="team-member-img img-fluid rounded-circle p-4" src="/img/abdi.png" alt="Card image">
+                    <img class="team-member-img img-fluid rounded-circle p-4" src="/Frontend/img/abdi.png" alt="Card image">
                     <ul class="team-member-caption list-unstyled text-center pt-4 text-muted light-300">
                         <li>Abdillah Al Ghifari</li>
                         <li>Web Developer</li>
                     </ul>
                 </div>
                 <div class="team-member col-md-4">
-                    <img class="team-member-img img-fluid rounded-circle p-4" src="/img/udi.png" alt="Card image">
+                    <img class="team-member-img img-fluid rounded-circle p-4" src="/Frontend/img/udi.png" alt="Card image">
                     <ul class="team-member-caption list-unstyled text-center pt-4 text-muted light-300">
                         <li>Marsudi</li>
                         <li>Web Programmer</li>
                     </ul>
                 </div>
                 <div class="team-member col-md-4">
-                    <img class="team-member-img img-fluid rounded-circle p-4" src="/img/esa.png" alt="Card image">
+                    <img class="team-member-img img-fluid rounded-circle p-4" src="/Frontend/img/esa.png" alt="Card image">
                     <ul class="team-member-caption list-unstyled text-center pt-4 text-muted light-300">
                         <li>Esa Akram</li>
                         <li>Designer</li>
@@ -180,7 +180,7 @@
         <div class="container my-4">
             <div class="row">
                 <div class="banner-img col-lg-5">
-                    <img src="/img/work.svg" class="rounded img-fluid" alt="">
+                    <img src="/Frontend/img/work.svg" class="rounded img-fluid" alt="">
                 </div>
                 <div class="banner-content col-lg-7 align-self-end">
                     <h2 class="h2 pb-3">Why you choose us?</h2>
@@ -198,7 +198,7 @@
       <div class="row">
         <div class="col-lg-4">
           <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <img src="images/about-left-image.png" alt="person graphic">
+            <img src="/Frontend/images/about-left-image.png" alt="person graphic">
           </div>
         </div>
         <div class="col-lg-8 align-self-center">
@@ -207,7 +207,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
                   <div class="icon">
-                    <img src="images/service-icon-01.png" alt="reporting">
+                    <img src="/Frontend/images/service-icon-01.png" alt="reporting">
                   </div>
                   <div class="right-text">
                     <h4>Digital Marketing</h4>
@@ -218,7 +218,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
                   <div class="icon">
-                    <img src="images/service-icon-02.png" alt="">
+                    <img src="/Frontend/images/service-icon-02.png" alt="">
                   </div>
                   <div class="right-text">
                     <h4>Design Product</h4>
@@ -229,7 +229,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.9s">
                   <div class="icon">
-                    <img src="images/service-icon-03.png" alt="">
+                    <img src="/Frontend/images/service-icon-03.png" alt="">
                   </div>
                   <div class="right-text">
                     <h4>Web Analytics</h4>
@@ -240,7 +240,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="1.1s">
                   <div class="icon">
-                    <img src="images/service-icon-04.png" alt="">
+                    <img src="/Frontend/images/service-icon-04.png" alt="">
                   </div>
                   <div class="right-text">
                     <h4>SEO Suggestions</h4>

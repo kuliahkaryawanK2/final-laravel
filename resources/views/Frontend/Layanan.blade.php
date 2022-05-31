@@ -15,7 +15,7 @@
             </div>
             <!-- <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="images/banner-right-image.png" alt="team meeting">
+                <img src="/Frontend/images/banner-right-image.png" alt="team meeting">
               </div>
             </div> -->
           </div>
@@ -29,7 +29,7 @@
       <div class="row">
         <div class="col-lg-6 align-self-center  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
           <div class="left-image">
-            <img src="images/services-left-image.png" alt="">
+            <img src="/Frontend/images/services-left-image.png" alt="">
           </div>
         </div>
         <div class="col-lg-6 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
